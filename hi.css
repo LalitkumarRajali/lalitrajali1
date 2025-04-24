@@ -1,0 +1,201 @@
+.lalit3{
+  width: 180px;
+  object-fit: fill;
+  border-radius: 150px;
+
+  
+
+
+}
+.lalit8 ul{
+  list-style-type:none;
+ 
+}
+.lalit8 a{
+  display:block ;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-family: ;
+  color: black;
+  margin-top: 15px;
+  transition:opacity 0.15sec text-decoration
+  0.15sec;
+
+  
+
+}
+.lalit8 a:hover{
+  text-decoration: underline;
+  box-shadow: 20px,20px,20px rgb(0,0,0);
+
+
+}
+.lalit8 a:active{
+  opacity: 0.6;
+
+}
+.lalit9{
+  margin-top: 23px;
+  margin-right: 100px;
+  font-weight: bold;
+  font-size: larger;
+
+
+}
+.span2{
+  color:rgb(65, 13, 162);
+  font-weight: bold;
+  font-size: larger;
+
+}
+
+
+.lalit8 li{
+  float: left;
+  text-align: center;
+  display: block;
+
+
+}
+
+
+
+
+  
+
+.lalit1{
+display: block;
+width: 720px;
+height: 100%;
+
+
+}
+.lalit2{
+  
+  display: inline-block;
+  margin-top: 120px;
+  margin-left: 80px;
+  
+  
+  
+
+}
+
+
+
+.lalit4{
+  display: inline-block;
+ 
+  margin-left:40px;
+  padding:50px;
+vertical-align: top;
+margin-top:120px;
+
+
+
+
+}
+.lalit5{
+  font-weight:bolder;
+  
+  
+}
+.span1{
+  color: rgb(104, 14, 188);
+
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+.lalit10{
+  display: block;
+  background-color: rgb(206, 20, 20);
+}
+.h0{
+  width: 100%;
+  height: 80%;
+  
+}
+.lalit12{
+  margin-left: 20px;
+}
+.email1{
+  width:100px;
+  border-radius: 30px;
+  height:100px;
+  
+}
+.contact{
+  margin-left: 400px;
+ 
+  margin-top: 80px;
+  width:100%;
+
+
+}
+.contact1{
+  
+  width:150px;
+  margin-left: 80px;
+  display:inline-block;
+
+  
+
+}
+.git1{
+  width:95px;
+  border-radius: 30px;
+  height:90px;
+  background-color: black;
+
+}
+.more1{
+  margin-left:700px;
+  font-size: medium;
+  width: 200px;
+  margin-top:50px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.px{
+  color:purple
+}
+.img69{
+  width: 300px;
+  height:250px;
+
+}
+.lalit12{
+  display: inline-block;
+  width:300px;
+  height: 250px;
+}
+.lalit13{
+  
+  width: 200px;
+  display:inline-block;
+  margin-left: 30px;
+
+}
+.img70{
+  width:300px;
+  height: 250px;
+}
+.lalit11{
+  background-color: rgb(249, 249, 249);
+  width: 1500px;
+}
+.lalit14{
+ 
+  width: 200px;
+  display:inline-block;
+  margin-left: 120px;}
+  .h16{
+    margin-left:430px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+  }
+  .lalit100{
+    width: 800px;
+  }
+  
